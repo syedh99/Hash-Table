@@ -1,0 +1,3 @@
+﻿  login.cpp
+C:\Users\syed_\OneDrive - Wayne State University\CompSci2 Lab\Lab05\Code\login.cpp(26,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Hash.vcxproj -> C:\Users\syed_\OneDrive - Wayne State University\CompSci2 Lab\Lab05\Hash\Hash\Debug\Hash.exe
